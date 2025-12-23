@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "アイランド",
+  "base_artist": "レミオロメン",
+  "createdAt": "2025-12-23T03:17:17.982157Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "アイランド・イン・ザ・サン",
+      "artist": "Alcatrazz",
+      "has_synced": false,
+      "path": "select/01_アイランド・イン・ザ・サン_Alcatrazz.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "パイナップル・アイランド",
+      "artist": "Seiko Matsuda",
+      "has_synced": false,
+      "path": "select/02_パイナップル・アイランド_Seiko_Matsuda.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "雨のコニー・アイランド",
+      "artist": "Seiko Matsuda",
+      "has_synced": true,
+      "path": "select/03_雨のコニー・アイランド_Seiko_Matsuda.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "パイナップル・アイランド",
+      "artist": "松田聖子",
+      "has_synced": false,
+      "path": "select/04_パイナップル・アイランド_松田聖子.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "雨のコニー・アイランド",
+      "artist": "松田聖子",
+      "has_synced": true,
+      "path": "select/05_雨のコニー・アイランド_松田聖子.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "アイランド",
+      "artist": "レミオロメン",
+      "has_synced": true,
+      "path": "select/06_アイランド_レミオロメン.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "アイランド",
+      "artist": "フジファブリック",
+      "has_synced": true,
+      "path": "select/07_アイランド_フジファブリック.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "想い出のコニーズ・アイランド(24bit/96KHz)",
+      "artist": "河合奈保子",
+      "has_synced": false,
+      "path": "select/08_想い出のコニーズ・アイランド(24bit_96KHz)_河合奈保子.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "想い出のコニーズ・アイランド",
+      "artist": "河合奈保子",
+      "has_synced": false,
+      "path": "select/09_想い出のコニーズ・アイランド_河合奈保子.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "アイランド",
+      "artist": "PUFFY",
+      "has_synced": false,
+      "path": "select/10_アイランド_PUFFY.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アイランド",
+      "artist": "レミオロメン",
+      "has_synced": false,
+      "path": "select/pl_01_アイランド_レミオロメン.txt"
+    }
+  ]
+}
